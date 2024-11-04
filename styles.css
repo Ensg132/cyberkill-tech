@@ -1,6 +1,6 @@
 body {
     background-color: #0f0f0f;
-    color: #00ff00;
+    color: #cccc20;
     font-family: "Courier New", Courier, monospace;
     margin: 0;
     padding: 0;
@@ -10,23 +10,23 @@ body {
 header {
     background-color: #111;
     padding: 20px;
-    border-bottom: 2px solid #00ff00;
+    border-bottom: 2px solid #cccc20;
 }
 
 header h1 {
     font-size: 2em;
-    color: #00ff00;
+    color: #cccc20;
 }
 
 nav a {
-    color: #00ff00;
+    color: #cccc20;
     margin: 0 15px;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #0f0;
+    color: #cccc20;
 }
 
 main {
@@ -35,9 +35,9 @@ main {
 
 footer {
     background-color: #111;
-    color: #00ff00;
+    color: #cccc20;
     padding: 10px;
-    border-top: 2px solid #00ff00;
+    border-top: 2px solid #cccc20;
     font-size: 0.9em;
     margin-top: 20px;
 }
